@@ -8,6 +8,8 @@ This project is a collaboration between Frontend Mentor, Scrimba and Kevin Powel
 
 The project aims to build out a multi-page space tourism website and get it looking as close to the design as possible.
 
+Live site: https://space-tourism-by-alphfonti.netlify.app/
+
 ## Acknowledgments
 
 - [Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3)
