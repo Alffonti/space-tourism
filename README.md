@@ -4,7 +4,8 @@ This project is a collaboration between Frontend Mentor, Scrimba and Kevin Powel
 
 ## About The Project
 
-![Space Travel screenshot](./screenshot.jpg)
+![](./screenshot.jpg)
+![Space Tourism screenshot](https://user-images.githubusercontent.com/69361901/197351023-9e2c9f63-ed2d-4011-a137-6b2d7a8eff8f.png)
 
 The project aims to build out a multi-page space tourism website and get it looking as close to the design as possible.
 
